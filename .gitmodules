@@ -1,0 +1,3 @@
+[submodule "lectures"]
+	path = lectures
+	url = https://github.com/stanford-cs336/lectures.git
