@@ -79,7 +79,7 @@ Balance **expressivity · stability · efficiency**.
 ### 2 · Systems
 **Resource accounting** — memory vs compute; data moves from **High Bandwidth Memory (HBM)** to **Streaming Multiprocessors (SMs)**; roofline; profiling (nsight).
 **Kernels** — minimize data movement; fusion, tiling (FlashAttention); CUDA / Triton / CUTLASS.
-**Parallelism** — shard params, activations, gradients, optimizer states; data / tensor / pipeline / sequence / expert parallelism.
+**Parallelism** — shard params, activations, gradients, optimizer states; data / tensor / pipeline / sequence / expert parallelism.. Tak
 **Inference** — prefill (compute-bound) vs decode (memory-bound); quantization, speculative decoding, continuous batching.
 Ref: [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
 
@@ -108,3 +108,4 @@ Algorithms: PPO ([InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)), DPO, GRPO
 | Data — don't waste compute on bad or duplicate data |
 
 Next in [[Lecture 01]]: **tokenization** → [[Lecture 02]]: resource accounting.
+Prep: [[Transformer Architecture]].
