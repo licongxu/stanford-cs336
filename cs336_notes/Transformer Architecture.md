@@ -1,5 +1,5 @@
 # Transformer Architecture
-> Prep before [[Lecture 03]] · aligned with [[CS336 Overview]] syllabus unit 1
+> Prep before [[LM Architectures & Hyperparameters]] · aligned with [[CS336 Overview]] syllabus unit 1
 > Refs: [Attention Is All You Need (2017)](https://arxiv.org/pdf/1706.03762.pdf) · [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) · [[LLM-Everything/transformer/README|LLM-Everything/transformer]]
 
 ## Why Transformers?
@@ -118,6 +118,8 @@ Run **h parallel** attention heads (paper: h = 8), each with smaller d_k; **conc
 | **MHA** | **Multi-Head Attention** | K = N | Full KV cache per head |
 | **MQA** | **Multi-Query Attention** | K = 1 | Smallest cache |
 | **GQA** | **Grouped Query Attention** | 1 < K < N | Middle ground — common in open LLMs |
+
+→ [[LM Architectures & Hyperparameters#Modern variants — attention]] for shapes and KV cache.
 
 ### 6 · Add & Norm
 → [[LLM-Everything/transformer/add-and-norm|add-and-norm]] (figures fixed for Obsidian in that note too)

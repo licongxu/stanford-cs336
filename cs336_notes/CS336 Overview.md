@@ -108,4 +108,4 @@ Algorithms: PPO ([InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)), DPO, GRPO
 | Data — don't waste compute on bad or duplicate data |
 
 Next in [[Lecture 01]]: **tokenization** → [[Lecture 02]]: resource accounting.
-Prep: [[Transformer Architecture]].
+Prep: [[Transformer Architecture]] · [[LM Architectures & Hyperparameters]].
