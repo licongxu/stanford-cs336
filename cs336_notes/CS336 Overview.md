@@ -71,7 +71,7 @@ Early open attempts ([The Pile](https://arxiv.org/abs/2101.00027), [GPT-J](https
 | **5 · Alignment** | Improve a trained model with weak supervision | Generate → score → update |
 
 ### 1 · Basics
-**Tokenization** — atoms the model operates on; bytes ↔ token IDs; [BPE](https://arxiv.org/abs/1508.07909); efficiency via shorter context + adaptive compute; tokenizer-free models ([ByT5](https://arxiv.org/abs/2105.13626), [MegaByte](https://arxiv.org/abs/2309.10668)) promising but not yet frontier-scale.
+**Tokenization** — see [[Tokenizer]]; atoms the model operates on; bytes ↔ token IDs; [BPE](https://arxiv.org/abs/1508.07909); efficiency via shorter context + adaptive compute; tokenizer-free models ([ByT5](https://arxiv.org/abs/2105.13626), [MegaByte](https://arxiv.org/abs/2309.10668)) promising but not yet frontier-scale.
 **Architecture** — [Transformer](https://arxiv.org/pdf/1706.03762.pdf) + refinements: SwiGLU, RoPE, LayerNorm/RMSNorm/QK-norm, attention (sparse, GQA, MLA), recurrence (Mamba, GDN), MoE, shape choices.
 **Training** — loss (MTP), optimizers (AdamW, SOAP, Muon), init (Xavier, [μP](https://arxiv.org/abs/2203.03466)), LR schedules, batch size, regularization, MoE load balancing.
 Balance **expressivity · stability · efficiency**.
@@ -107,5 +107,5 @@ Algorithms: PPO ([InstructGPT](https://arxiv.org/pdf/2203.02155.pdf)), DPO, GRPO
 | Scaling laws — tune cheaply on small models |
 | Data — don't waste compute on bad or duplicate data |
 
-Next in [[Lecture 01]]: **tokenization** → [[Lecture 02]]: resource accounting.
-Prep: [[Transformer Architecture]] · [[LM Architectures & Hyperparameters]].
+[[Lecture 01]]: [[Tokenizer]] → [[Lecture 02]]: resource accounting.
+Prep: [[Transformer Architecture]] · [[LM Architectures & Hyperparameters]] · [[Attention Alternatives & MoE]].

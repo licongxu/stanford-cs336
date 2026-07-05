@@ -38,7 +38,7 @@ Below: same pipeline **module by module** (following [[LLM-Everything/transforme
 ## Module-by-module
 
 ### 1 · Tokenizer
-→ [[LLM-Everything/transformer/tokenizer|tokenizer]]
+→ [[Tokenizer]] · [[LLM-Everything/transformer/tokenizer|LLM-Everything/tokenizer]]
 
 Maps raw text ↔ **token IDs** before the model sees anything.
 
@@ -280,6 +280,6 @@ The 2017 Transformer was **encoder + decoder** (translation: read source, write 
 **CS336 builds decoder-only** — Assignment 1 trains a small GPT-style LM on TinyStories / OpenWebText.
 
 ## CS336 next steps
-- [[Lecture 01]]: architecture refinements (RoPE, GQA, MLA, MoE, Mamba)
+- [[Attention Alternatives & MoE]] — linear attention, hybrids, MoE (Lecture 04)
 - Assignment 1: BPE + Transformer block from scratch
 - Code: [[LLM-Everything/code-from-scratch/README|LLM-Everything/code-from-scratch]]

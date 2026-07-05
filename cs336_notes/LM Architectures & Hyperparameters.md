@@ -412,7 +412,7 @@ Full attention is $O(n^2)$. Alternatives:
 - Cohere Command A: every 4th layer full attention; NoPE for long-range + RoPE+SWA for local
 - Llama 4, Gemma 3/4, OlMo 3, Qwen 3.5: similar interleaving
 
-SSM hybrids (Jamba, Falcon 3, Qwen 3.5) → next lectures.
+SSM hybrids (Jamba, Falcon 3, Qwen 3.5) → [[Attention Alternatives & MoE]].
 
 ---
 
