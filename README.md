@@ -4,8 +4,11 @@ Local workspace for [CS336: Language Modeling from Scratch](https://github.com/s
 
 ## Layout
 
-- `lectures/` — course lecture materials (git submodule)
-- Run commands from inside `lectures/`
+- `cs336_notes/` — Obsidian study notes
+- `lectures/` — course lecture materials (executable lectures)
+- `LLM-Everything/` — supplementary LLM reference notes
+- `cs336_assignment/` — assignment solutions / work
+- Run lecture commands from inside `lectures/`
 
 ## Setup
 
