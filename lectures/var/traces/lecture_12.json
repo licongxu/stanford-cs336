@@ -395,7 +395,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[Artificial Analysis]",
+          "data": "Artificial Analysis",
           "style": {},
           "external_link": {
             "title": "Artificial Analysis",
@@ -537,7 +537,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[Arena AI (formerly Chatbot Arena)]",
+          "data": "Arena AI (formerly Chatbot Arena)",
           "style": {},
           "external_link": {
             "title": "Arena AI (formerly Chatbot Arena)",
@@ -625,7 +625,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[OpenRouter]",
+          "data": "OpenRouter",
           "style": {},
           "external_link": {
             "title": "OpenRouter",
@@ -2065,7 +2065,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[https://llm-stats.com/benchmarks/mmlu]",
+          "data": "https://llm-stats.com/benchmarks/mmlu",
           "style": {},
           "external_link": {
             "title": null,
@@ -2099,7 +2099,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[HELM MMLU for visualizing predictions]",
+          "data": "HELM MMLU for visualizing predictions",
           "style": {},
           "external_link": {
             "title": "HELM MMLU for visualizing predictions",
@@ -2324,7 +2324,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[https://llm-stats.com/benchmarks/mmlu-pro]",
+          "data": "https://llm-stats.com/benchmarks/mmlu-pro",
           "style": {},
           "external_link": {
             "title": null,
@@ -2358,7 +2358,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[HELM MMLU-Pro for visualizing predictions]",
+          "data": "HELM MMLU-Pro for visualizing predictions",
           "style": {},
           "external_link": {
             "title": "HELM MMLU-Pro for visualizing predictions",
@@ -2574,7 +2574,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[https://llm-stats.com/benchmarks/gpqa]",
+          "data": "https://llm-stats.com/benchmarks/gpqa",
           "style": {},
           "external_link": {
             "title": null,
@@ -2608,7 +2608,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[HELM GPQA for visualizing predictions]",
+          "data": "HELM GPQA for visualizing predictions",
           "style": {},
           "external_link": {
             "title": "HELM GPQA for visualizing predictions",
@@ -3966,7 +3966,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[https://llm-stats.com/benchmarks/hle]",
+          "data": "https://llm-stats.com/benchmarks/hle",
           "style": {},
           "external_link": {
             "title": null,
@@ -4565,7 +4565,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[Arena AI (formerly Chatbot Arena)]",
+          "data": "Arena AI (formerly Chatbot Arena)",
           "style": {},
           "external_link": {
             "title": "Arena AI (formerly Chatbot Arena)",
@@ -4816,7 +4816,7 @@
         },
         {
           "type": "link",
-          "data": "[leaderboard]",
+          "data": "leaderboard",
           "style": {},
           "external_link": {
             "title": "leaderboard",
@@ -5239,7 +5239,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[HELM WildBench for visualizing predictions]",
+          "data": "HELM WildBench for visualizing predictions",
           "style": {},
           "external_link": {
             "title": "HELM WildBench for visualizing predictions",
@@ -5704,7 +5704,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[https://llm-stats.com/benchmarks/swe-bench-verified]",
+          "data": "https://llm-stats.com/benchmarks/swe-bench-verified",
           "style": {},
           "external_link": {
             "title": null,
@@ -5846,7 +5846,7 @@
         },
         {
           "type": "link",
-          "data": "[website]",
+          "data": "website",
           "style": {},
           "external_link": {
             "title": "website",
@@ -6016,7 +6016,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[https://llm-stats.com/benchmarks/terminal-bench]",
+          "data": "https://llm-stats.com/benchmarks/terminal-bench",
           "style": {},
           "external_link": {
             "title": null,
@@ -6255,7 +6255,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[https://llm-stats.com/benchmarks/cybench]",
+          "data": "https://llm-stats.com/benchmarks/cybench",
           "style": {},
           "external_link": {
             "title": null,
@@ -6432,7 +6432,7 @@
         },
         {
           "type": "link",
-          "data": "[post]",
+          "data": "post",
           "style": {},
           "external_link": {
             "title": "post",
@@ -6829,7 +6829,7 @@
         },
         {
           "type": "link",
-          "data": "[website]",
+          "data": "website",
           "style": {},
           "external_link": {
             "title": "website",
@@ -7110,7 +7110,7 @@
         },
         {
           "type": "link",
-          "data": "[post]",
+          "data": "post",
           "style": {},
           "external_link": {
             "title": "post",
@@ -7480,7 +7480,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[HarmBench on HELM]",
+          "data": "HarmBench on HELM",
           "style": {},
           "external_link": {
             "title": "HarmBench on HELM",
@@ -7514,7 +7514,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[Example of safety failure]",
+          "data": "Example of safety failure",
           "style": {},
           "external_link": {
             "title": "Example of safety failure",
@@ -7682,7 +7682,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[HELM AIR-Bench]",
+          "data": "HELM AIR-Bench",
           "style": {},
           "external_link": {
             "title": "HELM AIR-Bench",
@@ -8438,7 +8438,7 @@
       "renderings": [
         {
           "type": "link",
-          "data": "[MedHELM]",
+          "data": "MedHELM",
           "style": {},
           "external_link": {
             "title": "MedHELM",
@@ -9204,7 +9204,7 @@
         },
         {
           "type": "link",
-          "data": "[post]",
+          "data": "post",
           "style": {},
           "external_link": {
             "title": "post",
@@ -9414,7 +9414,7 @@
         },
         {
           "type": "link",
-          "data": "[post]",
+          "data": "post",
           "style": {},
           "external_link": {
             "title": "post",
@@ -9785,7 +9785,7 @@
         },
         {
           "type": "link",
-          "data": "[post]",
+          "data": "post",
           "style": {},
           "external_link": {
             "title": "post",
